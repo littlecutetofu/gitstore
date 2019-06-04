@@ -5,4 +5,5 @@
 \margl1440\margr1440\vieww10800\viewh8400\viewkind0
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 The tool can allow engineers to check in the changes that other engineers have submit the review request on review board.start with:1.Has it implemented similar function? What are the APIs?}
+\f0\fs24 \cf0 The tool can allow engineers to check in the changes that other engineers have submit the review request on review board.start with:1.Has it implemented similar function? What are the APIs? 2. Perforce has a function called \'93Shelve Files\'94, that can help? 3. Start to set up the environment\
+ To have a test. 4. Create a confluence page to log what I did and what I found.}
